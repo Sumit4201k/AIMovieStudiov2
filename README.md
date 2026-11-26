@@ -977,3 +977,9 @@ This project stands on the shoulders of giants:
 - **[Zustand](https://github.com/pmndrs/zustand)** - State management
 
 Built with respect for the open-source AI community. 🎬
+
+---
+
+## Deployment & Drivers
+
+See [docs/DEPLOYMENT.md](docs/DEPLOYMENT.md) for Docker Compose setup and supported image, video, and audio inference drivers.
